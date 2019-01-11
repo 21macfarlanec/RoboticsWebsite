@@ -1,0 +1,27 @@
+				#wrapper, img{
+					width:100%;
+					height: 100%;
+								}
+								
+				table, th, td {
+					border: 2px solid black;
+									}
+				th{
+					text-align: center;
+					}
+					
+				tr{
+					background-color: #eda338;
+					color: white;
+					}
+					
+				h1, h2, h3, h4, h5, h6, p{
+					font-family: "Comic Sans MS", "Comic Sans", cursive;
+					}
+					
+				ul{
+					font-family: "Comic Sans MS", "Comic Sans", cursive;
+					}
+				ol{
+					font-family: "Comic Sans MS", "Comic Sans", cursive;
+					}
