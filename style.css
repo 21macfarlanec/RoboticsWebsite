@@ -3,25 +3,17 @@
 					height: 100%;
 								}
 
-				a:link {
-				color: white;
-				text-decoration: none
-				}
-
-
-				a:visited {
+				a:link, a:visited {
+  				background-color: #f44336;
  				color: white;
-				text-decoration: none
+				padding: 14px 25px;
+				text-align: center; 
+				text-decoration: none;
+				display: inline-block;
 				}
 
-				a:hover {
-				color: white;
-				text-decoration: none
-				}
-
-				a:active {
- 				color: white;
-				text-decoration: none
+				a:hover, a:active {
+				background-color: red;
 				}
 				
 
